@@ -14,7 +14,7 @@ function MainStackNavigator() {
         <Stack.Screen
           name='HomeScreen'
           component={HomeScreen} 
-          options={{ title: 'Home' }}/>
+          options={{ title: 'BMI' }}/>
         <Stack.Screen
           name='DetailScreen'
           component={DetailScreen}
